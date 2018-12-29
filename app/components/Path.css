@@ -1,0 +1,21 @@
+.source-path-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.source-path-item {
+  display: flex;
+  padding: 5px 0px;
+}
+
+.source-path-item:hover .source-path-item-remove {
+  visibility: visible;
+}
+
+.source-path-item-path {
+  padding: 0px 10px;
+}
+
+.source-path-item-remove {
+  visibility: hidden;
+}
