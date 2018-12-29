@@ -1,8 +1,6 @@
 <div align="center">
-<h2>Rsync Backup GUI</h2>
+<h1>Rsync Backup GUI</h1>
 </div>
-
-<hr>
 <br>
 
 <div align="center">
