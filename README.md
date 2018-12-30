@@ -28,7 +28,7 @@ For Linux and Mac OS - this should work out of box as rsync is installed mostly
 - [ ] Add few advanced options like excluding files
 - [ ] Add features to set options for periodic auto backup
 
-#### This Project has been boostrapped from [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+#### This Project has been bootstrapped from [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 
 ## Install
 
